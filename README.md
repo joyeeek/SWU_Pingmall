@@ -1,6 +1,7 @@
 # SWU_Pingmall
 ### 챗봇을 통한 쇼핑몰 통합 고객센터(Shopping Mall Integrated Consumer Center through ChatBot)
 서울여자대학교 컴퓨터학과 졸업 프로젝트
+---
 
 ##### :heartpulse: 팀명 : 사랑합니다 고객님
 ##### :heartpulse: 개발자 : 강영, 김기쁨, 안가현
