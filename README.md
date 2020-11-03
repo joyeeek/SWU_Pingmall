@@ -4,8 +4,8 @@
 
 ---
 
-##### :heartpulse: 팀명 : 사랑합니다 고객님
-##### :heartpulse: 개발자 : 강영, 김기쁨, 안가현
+##### :family_woman_girl_girl: 팀명 : 사랑합니다 고객님
+##### :family_woman_girl_girl: 개발자 : 강영, 김기쁨, 안가현
 
 - Language : Javascript<br>
 - Server : Cloud9
@@ -18,7 +18,7 @@
 카카오톡 옐로아이디 서비스를 이용하여, 플러스 친구 검색을 통해 사용자가 편리하게 접근할 수 있습니다. 
 또한, 24시간 응답이 가능한 대화형 고객센터입니다.
 
-:star: 주요 기능<br>
+:books: 주요 기능<br>
 상품 문의, 배송문의, 교환/환불 문의, 입금 조회
 
 :globe_with_meridians: 시스템 구성<br>
