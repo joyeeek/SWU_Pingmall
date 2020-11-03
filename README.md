@@ -32,7 +32,7 @@
 
 사용자가 질문을 하면, 시스템은 자연어 처리를 함과 동시에 데이터베이스와 웹파싱을 통해 사용자에게 질문에 대한 답변을 해줄 수 있습니다.
 - 자연어 처리 : [mindmap.ai]의 봇빌더 사용<br>
-&nbsp;&nbsp;&nbsp;<일부 사용 예시>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<일부 사용 예시>
 ![](./images/mindmap.JPG)<br>    
 
 - 서버 : [Cloud9]https://aws.amazon.com/ko/cloud9/
