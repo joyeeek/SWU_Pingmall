@@ -4,7 +4,7 @@
 ##### - 팀명 : 사랑합니다 고객님
 ##### - 개발자 : 강영, 김기쁨, 안가현
 
-Language : Javascript / MySql
+Language : Javascript
 Server : Cloud9
 
 1. 개발동기
@@ -24,7 +24,7 @@ Server : Cloud9
 자연어 처리 : [mindmap.ai]의 봇빌더 사용
 실제로 작성한 봇빌더의 구성 일부 첨부
 
-서버 : Cloud9 -> 서버내에서 데이터베이스 이용가능
+서버 : [Cloud9]https://aws.amazon.com/ko/cloud9/ -> 서버내에서 데이터베이스 이용가능
 데이터베이스 구성 첨부
 
 5. 시현
