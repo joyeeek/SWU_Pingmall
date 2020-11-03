@@ -1,11 +1,12 @@
 # SWU_Pingmall
 ### 챗봇을 통한 쇼핑몰 통합 고객센터(Shopping Mall Integrated Consumer Center through ChatBot)
+서울여자대학교 컴퓨터학과 졸업 프로젝트
 
 ##### - 팀명 : 사랑합니다 고객님
 ##### - 개발자 : 강영, 김기쁨, 안가현
 
-Language : Javascript
-Server : Cloud9
+- Language : Javascript<br>
+- Server : Cloud9
 
 1. 개발동기
 쇼핑몰에 관한 문의가 필요한 경우 해당 쇼핑몰 홈페이지에 들어가야하고, 어떤 사이트에서는 아예 답을 주지 않는 경우도 있습니다.
