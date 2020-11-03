@@ -48,9 +48,6 @@
 
 ![](./images/displaytwo.JPG)
 
-![](./images/display.JPG)
-
-
 
 
 
