@@ -38,7 +38,7 @@
 
 - 서버 : [Cloud9]https://aws.amazon.com/ko/cloud9/
 <br>
-![](./images/cloud9.JPG)
+![](./images/cloud.JPG)
 
 <br>
 5. 시현
