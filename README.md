@@ -4,8 +4,8 @@
 
 ---
 
-##### :family_woman_girl_girl: 팀명 : 사랑합니다 고객님
-#####     개발자 : 강영, 김기쁨, 안가현
+##### :tulip: 팀명 : 사랑합니다 고객님
+##### :family_woman_girl_girl: 개발자 : 강영, 김기쁨, 안가현
 
 - Language : Javascript<br>
 - Server : Cloud9
