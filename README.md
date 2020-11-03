@@ -43,8 +43,9 @@
 <br> 
 
 <br>
-:desktop_computer: 시연 화면
+:desktop_computer: 시연 화면 일부
 <br>
+
 
 
 
