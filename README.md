@@ -30,7 +30,7 @@
 :globe_with_meridians: 시스템 구성<br><br>
 ![](./images/system.png)
 
-사용자가 질문을 하면, 시스템은 자연어 처리를 함과 동시에 데이터베이스와 웹파싱을 통해 사용자에게 질문에 대한 답변을 해줄 수 있습니다.
+**사용자가 질문을 하면, 시스템은 자연어 처리를 함과 동시에 데이터베이스와 웹파싱을 통해 사용자에게 질문에 대한 답변을 해줄 수 있습니다.**
 - 자연어 처리 : [mindmap.ai]의 봇빌더 사용<br>
 ![](./images/mindmap.JPG)<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<일부 사용 예시>
@@ -47,6 +47,11 @@
 <br>
 
 ![](./images/displaytwo.JPG)
+**카카오톡 플러스친구를 기반으로 하여 카카오톡 채팅을 이용하여 서비스를 이용할 수 있습니다. 
+사용자 입장에서 보기 편리한 UI를 구성하기 위해 처음 시작 부분은 버튼으로, 
+그 이후 흐름부터는 대화 형식으로 사용자 요청에 대한 정보를 제공합니다. 
+슈핑몰 고객센터는 고객이 요구한 사항에 적절하고 신속하게 응답함으로써 
+높은 접근성을 가지고, 여러 쇼핑몰의 통합된 서비스를 지향합니다.** 
 
 
 
